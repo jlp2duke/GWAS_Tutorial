@@ -1,5 +1,5 @@
 # GWAS Tutorial
-This tutorial is specifically designed for students of Complex Biosystems 852 at the university of Nebraska, it relies on a basic knowledge of Unix and R.
+This tutorial is based on the work of Nate Korth, a previous graduate student in the PhD Program in Complex Biosystems at the University of Nebraska. It relies on a basic knowledge of Unix and R.
 In this tutorial we will be analyzing biochemical features of Sorghum biocolor in a diversity panel and scanning for associated SNPs
 
 ## Step1: Setup
